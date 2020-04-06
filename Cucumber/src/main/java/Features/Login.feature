@@ -7,4 +7,6 @@ Given User is already on login page
 When title of login page is Facebook – log in or sign up
 Then enters username and password
 Then click on Login button
+
+
 Then user is on home page
